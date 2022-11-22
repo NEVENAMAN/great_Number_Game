@@ -1,0 +1,11 @@
+.container{
+    width: 1200px;
+    margin:200px auto;
+    text-align: center;
+}
+input[type='submit']{
+    margin-top: 20px;
+    width:80px;
+    height: 30px;
+    box-shadow: 4px 4px 4px;
+}
